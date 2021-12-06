@@ -1,6 +1,7 @@
 # Sea Journey - 2021
-### UFRJ Analytica Time 2 / ODS 14 - Vida na água
+### UFRJ Analytica Time 2 / ODS 14 - Vida na água - EQUIPE VENCEDORA!
 
+![anuncio](https://github.com/RafaelxFernandes/Hacking-Rio-2021/blob/main/photo_2021-12-06_12-51-35.jpg)
 #### Apresentação 
 
 > Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
